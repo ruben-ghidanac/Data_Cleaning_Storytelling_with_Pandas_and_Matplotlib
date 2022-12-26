@@ -14,7 +14,7 @@ Your analytical and business skills are needed to provide clarity in the followi
 - How seasonality and special dates (Christmas, Black Friday) affect sales.
 - How could data collection be improved.
 
-Y**ou are expected to give a presentation** to the company board and present the results of your analysis. The presentation needs to be concise, but also engaging and convincing.
+**You are expected to give a presentation** to the company board and present the results of your analysis. The presentation needs to be concise, but also engaging and convincing.
 
 Before you get too deep into the business questions, there is some bad news we need to share with you: **the data appears to have some inconsistencies —it must have been corrupted**. In short, you will have a lot of **data cleaning** to do before you can even start to think about the business questions.
 
