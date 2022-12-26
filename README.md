@@ -1,5 +1,6 @@
 # Data Cleaning & Storytelling with Pandas & Matplotlib
  Data Analysis - whether it’s beneficial to discount products or not
+ 
 **Project objectives & overview**
     
     The company (Eniac — the e-commerce tech company) has high hopes put into the possibilities that come with Data Analysis, and they are especially hopeful that your work can finally settle an ongoing debate: **whether it’s beneficial to discount products or not**.
